@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "8b1eea3b76dc526d72ba26a93aac8c670b32e30cc045e3a2427a18004dfaa750"
+build_start_time: [1711128376, 680289000]
+build_end_time: [1711128379, 668919000]
+inputs:
+  ? "/Users/strozer/Downloads/leathel/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1711128376, 673609787]
+  "/Users/strozer/Downloads/leathel/macos/Flutter/GeneratedPluginRegistrant.swift": [1711128364, 670814931]
+  "/Users/strozer/Downloads/leathel/macos/Runner/AppDelegate.swift": [1710772793, 0]
+  "/Users/strozer/Downloads/leathel/macos/Runner/MainFlutterWindow.swift": [1710772793, 0]

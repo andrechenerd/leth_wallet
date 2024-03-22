@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "501e81c3d15b29fc6ee5f8e65e0f247fd44dca312cb59c4bc4eb5b881037d8ce"
+build_start_time: [1711128370, 555775000]
+build_end_time: [1711128375, 57955000]
+inputs:
+  "/Users/strozer/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/darwin/Classes/PathProviderPlugin.swift": [1710178162, 379635203]
+  "/Users/strozer/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/darwin/Classes/messages.g.swift": [1710178162, 379493369]
